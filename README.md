@@ -31,7 +31,7 @@ Frameworks/Libraries:<br>
 
 Tools:<br>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"height="40" width="40" title="Nuxt 3" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"height="40" width="40" title="Git" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" title="Github" alt="Github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" title="Nginx" alt="Nginx"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" title="VSCode" alt="VSCode"/>
