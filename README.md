@@ -39,8 +39,6 @@ Tools:<br>
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="40" title="Raspberri Pi" alt="Raspberry Pi"/>
 </div>
 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-
 ### Stats<br>
 
 
