@@ -48,7 +48,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-
 ### Activity
 
 
-![My personal Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mikespinks0401&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <!--
 **mikespinks0401/mikespinks0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
