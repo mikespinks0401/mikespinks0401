@@ -40,7 +40,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-
 </div>
 
 ### Some Front End Projects <br>
-![Countries REST API](https://mikespinks0401.github.io/project-restApi-countries/)
+
+[Countries REST API](https://mikespinks0401.github.io/project-restApi-countries/)
+
 ### Stats<br>
 
 
