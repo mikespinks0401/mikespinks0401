@@ -43,10 +43,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-
 
 [Countries REST API](https://mikespinks0401.github.io/project-restApi-countries/)
 
+[Responsive News Homepage](https://mikespinks0401.github.io/project-news-homepage-layout/)
 ### Stats<br>
 
 
-[Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikespinks0401)]
+![Michaels's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikespinks0401)]
 ### Most Used Languages<br>
 ![My personal Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikespinks0401&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 ### Activity
