@@ -4,7 +4,7 @@
 ### About Me
 
 + 📝 My current focus is growing as full stack engineer and  writing blogs to help aspiring developers.
-+ 💻 I work daily with Nuxt 3/ Vue 3, Typescript, TailwindCss, Cypress, and Github. I also enjoy experimenting with new web technologies
++ 💻 I work daily with Nuxt 3, Typescript, and Vuetify. I enjoy the challenge that comes with learning new technologies.
 
 
 ### Languages, Libraries,  and Tools
