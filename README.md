@@ -18,6 +18,7 @@ Languages:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" title="HTML5" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" title="CSS3" alt="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="40" title="Markdown" alt="Markdown"/>
+  
 
 
 </div>
@@ -25,6 +26,7 @@ Frameworks/Libraries:<br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" width="40" title="Nuxt 3" alt="Nuxt 3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40" title="Vue 3" alt="Vue 3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original-wordmark.svg" height="40" width="40" title="Svelte" alt="Svelte"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" width="40" title="Laravel" alt="Laravel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="40" title="Tailwind" alt="Tailwind"/>
 </div>
